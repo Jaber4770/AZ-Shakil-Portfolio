@@ -20,7 +20,7 @@ $body = "You have received a new message from your website contact form.\n\n"
       . "Subject: $m_subject\n\n"
       . "Message: $message";
 
-$header = "From: noreply@yourdomain.com\r\n"; // Use a fixed domain email here
+$header = "From: jaber.ahmed062004@gmail.com\r\n"; // Use a fixed domain email here
 $header .= "Reply-To: $email\r\n";
 
 if(mail($to, $subject, $body, $header)) {
