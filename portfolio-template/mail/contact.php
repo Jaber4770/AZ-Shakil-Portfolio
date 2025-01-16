@@ -11,7 +11,7 @@ $m_subject = strip_tags(htmlspecialchars($_POST['subject']));
 $message = strip_tags(htmlspecialchars($_POST['message']));
 
 // $to = "hi@azshakil.com"; // Corrected email address
-$to = "jaber.ahmed4770@gmail.com"; // Corrected email address
+$to = "hi@azshakil.com"; // Corrected email address
 $subject = "$m_subject: $name";
 $body = "You have received a new message from your website contact form.\n\n"
       . "Here are the details:\n\n"
@@ -20,7 +20,7 @@ $body = "You have received a new message from your website contact form.\n\n"
       . "Subject: $m_subject\n\n"
       . "Message: $message";
 
-$header = "From: jaber.ahmed062004@gmail.com\r\n"; // Use a fixed domain email here
+$header = "From: noreply@yourdomain.com\r\n"; // Use a fixed domain email here
 $header .= "Reply-To: $email\r\n";
 
 if(mail($to, $subject, $body, $header)) {
