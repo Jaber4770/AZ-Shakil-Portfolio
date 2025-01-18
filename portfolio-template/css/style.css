@@ -167,8 +167,8 @@
   top: 80px;
   left: 569px;
   transform: translate(-50%, -50%);
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border: 1px solid #956bff98;
   border-radius: 50%;
   background-color: #956bff;
@@ -179,8 +179,8 @@
   top: 170px;
   left: 554px;
   transform: translate(-50%, -50%);
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border: 1px solid #956bff98;
   border-radius: 50%;
   background-color: #956bff;
@@ -191,8 +191,8 @@
   top: 170px;
   left: 554px;
   transform: translate(-50%, -50%);
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border: 1px solid #956bff98;
   border-radius: 50%;
   background-color: #956bff;
@@ -203,8 +203,8 @@
   top: 170px;
   left: 554px;
   transform: translate(-50%, -50%);
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border: 1px solid #956bff98;
   border-radius: 50%;
   background-color: #956bff;
@@ -215,8 +215,8 @@
   top: 275px;
   left: 554px;
   transform: translate(-50%, -50%);
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border: 1px solid #956bff98;
   border-radius: 50%;
   background-color: #956bff;
@@ -227,8 +227,8 @@
   top: 194px;
   left: 554px;
   transform: translate(-50%, -50%);
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border: 1px solid #956bff98;
   border-radius: 50%;
   background-color: #956bff;
@@ -239,8 +239,8 @@
   top: 215px;
   left: 554px;
   transform: translate(-50%, -50%);
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border: 1px solid #956bff98;
   border-radius: 50%;
   background-color: #956bff;
@@ -7194,8 +7194,8 @@ a.close.disabled {
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   display: inline-block;
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   background: no-repeat 50% / 100% 100%;
 }
 
